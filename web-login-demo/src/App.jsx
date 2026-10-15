@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000";
+const API = "https://taskflow-task-management-3qb5.onrender.com";
 
 const EMPTY_TASK = {
   title: "",
